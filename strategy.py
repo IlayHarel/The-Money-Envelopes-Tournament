@@ -70,7 +70,7 @@ class BetterThanPercentStrategy(Strategy):
 
         # If no better envelope was found, take the last one
         val = envelopes[-1].value()
-        print(f"❌ No better envelope found. Taking the last one: {val}$")
+        print(f"No better envelope found. Taking the last one: {val}$")
 
 
 class MaxAfterNStrategy(Strategy):
