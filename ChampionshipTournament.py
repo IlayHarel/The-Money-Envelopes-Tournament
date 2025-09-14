@@ -84,15 +84,3 @@ class ChampionshipTournament:
         print(f"The Champion is: {winner.__class__.__name__}")
         return winner
 
-from strategy import BetterThanPercentStrategy, StopAfterNOpensStrategy, RandomStrategy
-
-if __name__ == "__main__":
-    strategies = [
-        BetterThanPercentStrategy(0.3),
-        StopAfterNOpensStrategy(3),
-        RandomStrategy(),
-        BetterThanPercentStrategy(0.5)
-    ]
-
-    tournament = ChampionshipTournament(strategies, num_envelopes=10, group_size=2)
-    champion = tournament.run()
