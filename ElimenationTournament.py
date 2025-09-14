@@ -72,19 +72,3 @@ class EliminationTournament(Tournament):
         winner = competitors[0]
         print(f"\n🏆 Tournament Winner: {winner.__class__.__name__}")
         return winner, self.bracket
-from strategy import *
-# ---- Run Example ----
-if __name__ == "__main__":
-    strategies = [
-        RandomStrategy(),
-        StopAfterNOpensStrategy(3),
-        BetterThanPercentStrategy(0.25),
-        MaxAfterNStrategy(4)
-    ]
-
-    tournament = EliminationTournament(strategies, num_envelopes=8)
-    winner, bracket = tournament.run()
-
-    print("\n--- Bracket Results ---")
-    for match in bracket:
-        print(match["match"], "→", match["result"])
