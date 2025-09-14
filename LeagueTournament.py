@@ -74,14 +74,3 @@ class LeagueTournament:
             print(f"{rank:<5} {name:<25} {stats['games']:<5} {stats['wins']:<5} {stats['losses']:<6} {stats['ties']:<5} {stats['points']:<6}")
         return final_ranking
 
-
-
-strategies = [
-    RandomStrategy(),
-    StopAfterNOpensStrategy(3),
-    BetterThanPercentStrategy(0.25),
-    MaxAfterNStrategy(3)
-]
-
-league = LeagueTournament(strategies, num_envelopes=5)
-final_ranking = league.run()
