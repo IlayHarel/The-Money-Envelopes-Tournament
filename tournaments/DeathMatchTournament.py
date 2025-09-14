@@ -1,20 +1,5 @@
 from envelope import Envelope
-import strategy
-
-class Tournament:
-    """
-    Base class for all tournament types.
-    """
-    def __init__(self, strategies, num_envelopes=10):
-        self.strategies = strategies  # list of Strategy instances
-        self.num_envelopes = num_envelopes
-
-    def run(self):
-        """
-        Runs the tournament.
-        Should be overridden by subclasses.
-        """
-        raise NotImplementedError("Subclasses must implement run()")
+from base import Tournament
 
 
 class DeathMatchTournament(Tournament):
@@ -70,6 +55,3 @@ class DeathMatchTournament(Tournament):
         tournament_winner = 0 if scores[0] > scores[1] else 1
         print(f"\nTournament Winner: Strategy #{tournament_winner + 1}")
         return tournament_winner, self.history
-
-tournament = DeathMatchTournament([strategy.RandomStrategy(), strategy.StopAfterNOpensStrategy(3)], 5, 5)
-tournament.run()
