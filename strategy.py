@@ -20,6 +20,7 @@ class RandomStrategy(Strategy):
         index = random.randint(0, len(envelopes) - 1)
         chosen = envelopes[index].value()
         print(f"Randomly chosen envelope #{index + 1}: {chosen}$")
+        return index
 
 
 class StopAfterNOpensStrategy(Strategy):
@@ -36,6 +37,7 @@ class StopAfterNOpensStrategy(Strategy):
             print(f"Envelope #{i + 1}: {val}$")
         print(f"\nYou must choose envelope #{self.N}")
         print(f"Chosen amount: {envelopes[self.N - 1].value()}$")
+        return self.N -1
 
 
 class BetterThanPercentStrategy(Strategy):
@@ -66,11 +68,12 @@ class BetterThanPercentStrategy(Strategy):
             print(f"Envelope #{i + 1}: {val}$")
             if val > max_val:
                 print(f" Found better envelope! Chosen: {val}$")
-                return
+                return i
 
         # If no better envelope was found, take the last one
         val = envelopes[-1].value()
         print(f"No better envelope found. Taking the last one: {val}$")
+        return n-1
 
 
 class MaxAfterNStrategy(Strategy):
@@ -89,7 +92,8 @@ class MaxAfterNStrategy(Strategy):
             val = envelopes[i].value()
             print(f"Envelope #{i + 1}: {val}$")
             if val > max_seen:
-                max_seen = val
+                max_seen = val 
+                
 
         print(f"\nNow looking for an envelope with more than {max_seen}$...\n")
 
@@ -98,8 +102,10 @@ class MaxAfterNStrategy(Strategy):
             print(f"Envelope #{i + 1}: {val}$")
             if val > max_seen:
                 print(f" Found better envelope! Chosen: {val}$")
-                return
+                return i
 
         # if no better envelope is found, take the last one
         val = envelopes[-1].value()
         print(f" No better envelope found. Taking the last one: {val}$")
+        return len(envelopes) - 1  
+
