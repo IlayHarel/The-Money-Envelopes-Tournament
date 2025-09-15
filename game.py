@@ -1,4 +1,6 @@
 # game.py
+from envelope import Envelope
+from strategy import RandomStrategy
 class Game:
     """
     Runs one game with the given strategy and envelopes.
@@ -46,3 +48,21 @@ class GameResult:
         self.opened_count = opened_count
         self.success = success
         self.ratio = ratio
+if __name__ == "__main__":
+    # Create envelopes
+    envelopes = [Envelope() for _ in range(10)]
+
+    # Choose a strategy
+    strategy = RandomStrategy()  # You can swap with StopAfterNOpensStrategy(3), etc.
+
+    # Run the game
+    game = Game(strategy)
+    result = game.run(envelopes)
+
+    print("\n--- Game Result ---")
+    print(f"Chosen index: {result.chosen_index + 1}")
+    print(f"Chosen amount: {result.chosen_amount}$")
+    print(f"Maximum amount: {result.max_amount}$")
+    print(f"Envelopes opened: {result.opened_count}")
+    print(f"Success: {result.success}")
+    print(f"Ratio: {result.ratio:.2f}")
