@@ -1,0 +1,24 @@
+{
+  "DeathMatchTournament": {
+    "RandomStrategy": 0.54,
+    "StopAfterNOpensStrategy": 0.46
+  },
+  "EliminationTournament": {
+    "RandomStrategy": 0.096,
+    "StopAfterNOpensStrategy": 0.091,
+    "BetterThanPercentStrategy": 0.357,
+    "MaxAfterNStrategy": 0.456
+  },
+  "LeagueTournament": {
+    "RandomStrategy": 0.058,
+    "StopAfterNOpensStrategy": 0.051,
+    "BetterThanPercentStrategy": 0.396,
+    "MaxAfterNStrategy": 0.495
+  },
+  "ChampionshipTournament": {
+    "RandomStrategy": 0.158,
+    "StopAfterNOpensStrategy": 0.153,
+    "BetterThanPercentStrategy": 0.409,
+    "MaxAfterNStrategy": 0.28
+  }
+}

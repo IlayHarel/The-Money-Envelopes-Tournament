@@ -53,5 +53,7 @@ class DeathMatchTournament(Tournament):
 
         # determine tournament winner
         tournament_winner = 0 if scores[0] > scores[1] else 1
-        print(f"\nTournament Winner: Strategy #{tournament_winner + 1}")
-        return tournament_winner, self.history
+        winner_strategy = self.strategies[tournament_winner]
+        print(f"\nTournament Winner: {winner_strategy.__class__.__name__}")
+        return winner_strategy, self.history
+

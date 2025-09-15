@@ -61,16 +61,20 @@ class LeagueTournament:
             for j in range(i + 1, n):
                 s1 = self.strategies[i]
                 s2 = self.strategies[j]
-                # Each pair plays twice (home and away)
-                for _ in range(2):
+                for _ in range(2):  # home & away
                     points1, points2 = self.play_game(s1, s2)
                     self.update_table(s1, s2, points1, points2)
 
-        # Sort final league table by points
         final_ranking = sorted(self.table.items(), key=lambda x: -x[1]["points"])
+
         print("\n--- Final League Table ---")
         print(f"{'Rank':<5} {'Strategy':<25} {'Games':<5} {'Wins':<5} {'Losses':<6} {'Ties':<5} {'Points':<6}")
         for rank, (name, stats) in enumerate(final_ranking, start=1):
             print(f"{rank:<5} {name:<25} {stats['games']:<5} {stats['wins']:<5} {stats['losses']:<6} {stats['ties']:<5} {stats['points']:<6}")
-        return final_ranking
+
+        # return champion strategy instance
+        champion_name = final_ranking[0][0]
+        champion = next(s for s in self.strategies if s.__class__.__name__ == champion_name)
+        return champion
+
 

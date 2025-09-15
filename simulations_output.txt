@@ -1,0 +1,1017 @@
+Envelope #1: 23$
+Envelope #2: 95$
+Envelope #3: 36$
+
+Now looking for an envelope with more than 95$...
+
+Envelope #4: 50$
+Envelope #5: 22$
+Envelope #6: 69$
+Envelope #7: 92$
+Envelope #8: 19$
+Envelope #9: 19$
+Envelope #10: 59$
+ No better envelope found. Taking the last one: 59$
+
+Group 1 Results:
+  RandomStrategy: 1 wins
+  StopAfterNOpensStrategy: 0 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Randomly chosen envelope #7: 100$
+Envelope #1: 77$
+Envelope #2: 48$
+Envelope #3: 7$
+
+You must choose envelope #3
+Chosen amount: 7$
+Learning envelope #1: 6$
+Learning envelope #2: 21$
+
+Now looking for first envelope greater than 21$...
+
+Envelope #3: 49$
+ Found better envelope! Chosen: 49$
+Observing the first 3 envelopes...
+Envelope #1: 6$
+Envelope #2: 21$
+Envelope #3: 49$
+
+Now looking for an envelope with more than 49$...
+
+Envelope #4: 34$
+Envelope #5: 90$
+ Found better envelope! Chosen: 90$
+Randomly chosen envelope #7: 34$
+Observing the first 3 envelopes...
+Envelope #1: 32$
+Envelope #2: 2$
+Envelope #3: 12$
+
+Now looking for an envelope with more than 32$...
+
+Envelope #4: 83$
+ Found better envelope! Chosen: 83$
+
+=== Champion ===
+The Champion is: MaxAfterNStrategy
+=== Group Stage ===
+Randomly chosen envelope #4: 39$
+Envelope #1: 47$
+Envelope #2: 18$
+Envelope #3: 94$
+
+You must choose envelope #3
+Chosen amount: 94$
+Learning envelope #1: 89$
+Learning envelope #2: 86$
+
+Now looking for first envelope greater than 89$...
+
+Envelope #3: 49$
+Envelope #4: 47$
+Envelope #5: 93$
+ Found better envelope! Chosen: 93$
+Observing the first 3 envelopes...
+Envelope #1: 89$
+Envelope #2: 86$
+Envelope #3: 49$
+
+Now looking for an envelope with more than 89$...
+
+Envelope #4: 47$
+Envelope #5: 93$
+ Found better envelope! Chosen: 93$
+
+Group 1 Results:
+  RandomStrategy: 0 wins
+  StopAfterNOpensStrategy: 1 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Envelope #1: 74$
+Envelope #2: 61$
+Envelope #3: 10$
+
+You must choose envelope #3
+Chosen amount: 10$
+Randomly chosen envelope #4: 15$
+Learning envelope #1: 35$
+Learning envelope #2: 99$
+
+Now looking for first envelope greater than 99$...
+
+Envelope #3: 20$
+Envelope #4: 68$
+Envelope #5: 26$
+Envelope #6: 58$
+Envelope #7: 26$
+Envelope #8: 64$
+Envelope #9: 97$
+Envelope #10: 22$
+No better envelope found. Taking the last one: 22$
+Observing the first 3 envelopes...
+Envelope #1: 35$
+Envelope #2: 99$
+Envelope #3: 20$
+
+Now looking for an envelope with more than 99$...
+
+Envelope #4: 68$
+Envelope #5: 26$
+Envelope #6: 58$
+Envelope #7: 26$
+Envelope #8: 64$
+Envelope #9: 97$
+Envelope #10: 22$
+ No better envelope found. Taking the last one: 22$
+Randomly chosen envelope #2: 96$
+Learning envelope #1: 8$
+Learning envelope #2: 96$
+
+Now looking for first envelope greater than 96$...
+
+Envelope #3: 62$
+Envelope #4: 8$
+Envelope #5: 46$
+Envelope #6: 70$
+Envelope #7: 75$
+Envelope #8: 93$
+Envelope #9: 25$
+Envelope #10: 75$
+No better envelope found. Taking the last one: 75$
+
+=== Champion ===
+The Champion is: RandomStrategy
+=== Group Stage ===
+Randomly chosen envelope #4: 73$
+Envelope #1: 74$
+Envelope #2: 88$
+Envelope #3: 66$
+
+You must choose envelope #3
+Chosen amount: 66$
+Learning envelope #1: 60$
+Learning envelope #2: 76$
+
+Now looking for first envelope greater than 76$...
+
+Envelope #3: 51$
+Envelope #4: 74$
+Envelope #5: 16$
+Envelope #6: 89$
+ Found better envelope! Chosen: 89$
+Observing the first 3 envelopes...
+Envelope #1: 60$
+Envelope #2: 76$
+Envelope #3: 51$
+
+Now looking for an envelope with more than 76$...
+
+Envelope #4: 74$
+Envelope #5: 16$
+Envelope #6: 89$
+ Found better envelope! Chosen: 89$
+
+Group 1 Results:
+  RandomStrategy: 1 wins
+  StopAfterNOpensStrategy: 0 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Randomly chosen envelope #10: 36$
+Envelope #1: 92$
+Envelope #2: 2$
+Envelope #3: 55$
+
+You must choose envelope #3
+Chosen amount: 55$
+Learning envelope #1: 13$
+Learning envelope #2: 85$
+
+Now looking for first envelope greater than 85$...
+
+Envelope #3: 14$
+Envelope #4: 56$
+Envelope #5: 28$
+Envelope #6: 5$
+Envelope #7: 28$
+Envelope #8: 58$
+Envelope #9: 20$
+Envelope #10: 2$
+No better envelope found. Taking the last one: 2$
+Observing the first 3 envelopes...
+Envelope #1: 13$
+Envelope #2: 85$
+Envelope #3: 14$
+
+Now looking for an envelope with more than 85$...
+
+Envelope #4: 56$
+Envelope #5: 28$
+Envelope #6: 5$
+Envelope #7: 28$
+Envelope #8: 58$
+Envelope #9: 20$
+Envelope #10: 2$
+ No better envelope found. Taking the last one: 2$
+Envelope #1: 25$
+Envelope #2: 35$
+Envelope #3: 42$
+
+You must choose envelope #3
+Chosen amount: 42$
+Learning envelope #1: 25$
+Learning envelope #2: 35$
+
+Now looking for first envelope greater than 35$...
+
+Envelope #3: 42$
+ Found better envelope! Chosen: 42$
+
+=== Champion ===
+The Champion is: StopAfterNOpensStrategy
+=== Group Stage ===
+Randomly chosen envelope #4: 91$
+Envelope #1: 86$
+Envelope #2: 98$
+Envelope #3: 27$
+
+You must choose envelope #3
+Chosen amount: 27$
+Learning envelope #1: 21$
+Learning envelope #2: 32$
+
+Now looking for first envelope greater than 32$...
+
+Envelope #3: 28$
+Envelope #4: 26$
+Envelope #5: 85$
+ Found better envelope! Chosen: 85$
+Observing the first 3 envelopes...
+Envelope #1: 21$
+Envelope #2: 32$
+Envelope #3: 28$
+
+Now looking for an envelope with more than 32$...
+
+Envelope #4: 26$
+Envelope #5: 85$
+ Found better envelope! Chosen: 85$
+
+Group 1 Results:
+  RandomStrategy: 1 wins
+  StopAfterNOpensStrategy: 0 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Randomly chosen envelope #1: 10$
+Envelope #1: 10$
+Envelope #2: 29$
+Envelope #3: 56$
+
+You must choose envelope #3
+Chosen amount: 56$
+Learning envelope #1: 82$
+Learning envelope #2: 87$
+
+Now looking for first envelope greater than 87$...
+
+Envelope #3: 21$
+Envelope #4: 59$
+Envelope #5: 12$
+Envelope #6: 28$
+Envelope #7: 43$
+Envelope #8: 47$
+Envelope #9: 90$
+ Found better envelope! Chosen: 90$
+Observing the first 3 envelopes...
+Envelope #1: 82$
+Envelope #2: 87$
+Envelope #3: 21$
+
+Now looking for an envelope with more than 87$...
+
+Envelope #4: 59$
+Envelope #5: 12$
+Envelope #6: 28$
+Envelope #7: 43$
+Envelope #8: 47$
+Envelope #9: 90$
+ Found better envelope! Chosen: 90$
+Envelope #1: 70$
+Envelope #2: 53$
+Envelope #3: 75$
+
+You must choose envelope #3
+Chosen amount: 75$
+Learning envelope #1: 70$
+Learning envelope #2: 53$
+
+Now looking for first envelope greater than 70$...
+
+Envelope #3: 75$
+ Found better envelope! Chosen: 75$
+
+=== Champion ===
+The Champion is: StopAfterNOpensStrategy
+=== Group Stage ===
+Randomly chosen envelope #4: 73$
+Envelope #1: 18$
+Envelope #2: 25$
+Envelope #3: 31$
+
+You must choose envelope #3
+Chosen amount: 31$
+Learning envelope #1: 29$
+Learning envelope #2: 12$
+
+Now looking for first envelope greater than 29$...
+
+Envelope #3: 15$
+Envelope #4: 71$
+ Found better envelope! Chosen: 71$
+Observing the first 3 envelopes...
+Envelope #1: 29$
+Envelope #2: 12$
+Envelope #3: 15$
+
+Now looking for an envelope with more than 29$...
+
+Envelope #4: 71$
+ Found better envelope! Chosen: 71$
+
+Group 1 Results:
+  RandomStrategy: 1 wins
+  StopAfterNOpensStrategy: 0 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Randomly chosen envelope #6: 49$
+Envelope #1: 9$
+Envelope #2: 81$
+Envelope #3: 50$
+
+You must choose envelope #3
+Chosen amount: 50$
+Learning envelope #1: 98$
+Learning envelope #2: 68$
+
+Now looking for first envelope greater than 98$...
+
+Envelope #3: 8$
+Envelope #4: 7$
+Envelope #5: 92$
+Envelope #6: 21$
+Envelope #7: 44$
+Envelope #8: 72$
+Envelope #9: 14$
+Envelope #10: 47$
+No better envelope found. Taking the last one: 47$
+Observing the first 3 envelopes...
+Envelope #1: 98$
+Envelope #2: 68$
+Envelope #3: 8$
+
+Now looking for an envelope with more than 98$...
+
+Envelope #4: 7$
+Envelope #5: 92$
+Envelope #6: 21$
+Envelope #7: 44$
+Envelope #8: 72$
+Envelope #9: 14$
+Envelope #10: 47$
+ No better envelope found. Taking the last one: 47$
+Envelope #1: 36$
+Envelope #2: 45$
+Envelope #3: 7$
+
+You must choose envelope #3
+Chosen amount: 7$
+Learning envelope #1: 36$
+Learning envelope #2: 45$
+
+Now looking for first envelope greater than 45$...
+
+Envelope #3: 7$
+Envelope #4: 41$
+Envelope #5: 91$
+ Found better envelope! Chosen: 91$
+
+=== Champion ===
+The Champion is: BetterThanPercentStrategy
+=== Group Stage ===
+Randomly chosen envelope #8: 65$
+Envelope #1: 67$
+Envelope #2: 42$
+Envelope #3: 23$
+
+You must choose envelope #3
+Chosen amount: 23$
+Learning envelope #1: 61$
+Learning envelope #2: 94$
+
+Now looking for first envelope greater than 94$...
+
+Envelope #3: 67$
+Envelope #4: 36$
+Envelope #5: 79$
+Envelope #6: 67$
+Envelope #7: 75$
+Envelope #8: 10$
+Envelope #9: 99$
+ Found better envelope! Chosen: 99$
+Observing the first 3 envelopes...
+Envelope #1: 61$
+Envelope #2: 94$
+Envelope #3: 67$
+
+Now looking for an envelope with more than 94$...
+
+Envelope #4: 36$
+Envelope #5: 79$
+Envelope #6: 67$
+Envelope #7: 75$
+Envelope #8: 10$
+Envelope #9: 99$
+ Found better envelope! Chosen: 99$
+
+Group 1 Results:
+  RandomStrategy: 1 wins
+  StopAfterNOpensStrategy: 0 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Randomly chosen envelope #4: 49$
+Envelope #1: 43$
+Envelope #2: 10$
+Envelope #3: 62$
+
+You must choose envelope #3
+Chosen amount: 62$
+Learning envelope #1: 68$
+Learning envelope #2: 71$
+
+Now looking for first envelope greater than 71$...
+
+Envelope #3: 52$
+Envelope #4: 71$
+Envelope #5: 18$
+Envelope #6: 19$
+Envelope #7: 86$
+ Found better envelope! Chosen: 86$
+Observing the first 3 envelopes...
+Envelope #1: 68$
+Envelope #2: 71$
+Envelope #3: 52$
+
+Now looking for an envelope with more than 71$...
+
+Envelope #4: 71$
+Envelope #5: 18$
+Envelope #6: 19$
+Envelope #7: 86$
+ Found better envelope! Chosen: 86$
+Envelope #1: 81$
+Envelope #2: 91$
+Envelope #3: 38$
+
+You must choose envelope #3
+Chosen amount: 38$
+Learning envelope #1: 81$
+Learning envelope #2: 91$
+
+Now looking for first envelope greater than 91$...
+
+Envelope #3: 38$
+Envelope #4: 32$
+Envelope #5: 56$
+Envelope #6: 8$
+Envelope #7: 70$
+Envelope #8: 50$
+Envelope #9: 6$
+Envelope #10: 41$
+No better envelope found. Taking the last one: 41$
+
+=== Champion ===
+The Champion is: BetterThanPercentStrategy
+=== Group Stage ===
+Randomly chosen envelope #5: 37$
+Envelope #1: 94$
+Envelope #2: 16$
+Envelope #3: 38$
+
+You must choose envelope #3
+Chosen amount: 38$
+Learning envelope #1: 33$
+Learning envelope #2: 100$
+
+Now looking for first envelope greater than 100$...
+
+Envelope #3: 57$
+Envelope #4: 95$
+Envelope #5: 5$
+Envelope #6: 43$
+Envelope #7: 27$
+Envelope #8: 5$
+Envelope #9: 55$
+Envelope #10: 92$
+No better envelope found. Taking the last one: 92$
+Observing the first 3 envelopes...
+Envelope #1: 33$
+Envelope #2: 100$
+Envelope #3: 57$
+
+Now looking for an envelope with more than 100$...
+
+Envelope #4: 95$
+Envelope #5: 5$
+Envelope #6: 43$
+Envelope #7: 27$
+Envelope #8: 5$
+Envelope #9: 55$
+Envelope #10: 92$
+ No better envelope found. Taking the last one: 92$
+
+Group 1 Results:
+  RandomStrategy: 0 wins
+  StopAfterNOpensStrategy: 1 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Envelope #1: 59$
+Envelope #2: 53$
+Envelope #3: 94$
+
+You must choose envelope #3
+Chosen amount: 94$
+Randomly chosen envelope #8: 5$
+Learning envelope #1: 50$
+Learning envelope #2: 57$
+
+Now looking for first envelope greater than 57$...
+
+Envelope #3: 14$
+Envelope #4: 98$
+ Found better envelope! Chosen: 98$
+Observing the first 3 envelopes...
+Envelope #1: 50$
+Envelope #2: 57$
+Envelope #3: 14$
+
+Now looking for an envelope with more than 57$...
+
+Envelope #4: 98$
+ Found better envelope! Chosen: 98$
+Envelope #1: 60$
+Envelope #2: 47$
+Envelope #3: 36$
+
+You must choose envelope #3
+Chosen amount: 36$
+Learning envelope #1: 60$
+Learning envelope #2: 47$
+
+Now looking for first envelope greater than 60$...
+
+Envelope #3: 36$
+Envelope #4: 5$
+Envelope #5: 54$
+Envelope #6: 5$
+Envelope #7: 10$
+Envelope #8: 58$
+Envelope #9: 43$
+Envelope #10: 18$
+No better envelope found. Taking the last one: 18$
+
+=== Champion ===
+The Champion is: StopAfterNOpensStrategy
+=== Group Stage ===
+Randomly chosen envelope #4: 62$
+Envelope #1: 46$
+Envelope #2: 57$
+Envelope #3: 55$
+
+You must choose envelope #3
+Chosen amount: 55$
+Learning envelope #1: 21$
+Learning envelope #2: 48$
+
+Now looking for first envelope greater than 48$...
+
+Envelope #3: 91$
+ Found better envelope! Chosen: 91$
+Observing the first 3 envelopes...
+Envelope #1: 21$
+Envelope #2: 48$
+Envelope #3: 91$
+
+Now looking for an envelope with more than 91$...
+
+Envelope #4: 57$
+Envelope #5: 3$
+Envelope #6: 66$
+Envelope #7: 99$
+ Found better envelope! Chosen: 99$
+
+Group 1 Results:
+  RandomStrategy: 1 wins
+  StopAfterNOpensStrategy: 0 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 0 wins
+  MaxAfterNStrategy: 1 wins
+
+=== Playoffs ===
+Randomly chosen envelope #9: 73$
+Envelope #1: 72$
+Envelope #2: 85$
+Envelope #3: 5$
+
+You must choose envelope #3
+Chosen amount: 5$
+Observing the first 3 envelopes...
+Envelope #1: 6$
+Envelope #2: 4$
+Envelope #3: 69$
+
+Now looking for an envelope with more than 69$...
+
+Envelope #4: 25$
+Envelope #5: 46$
+Envelope #6: 57$
+Envelope #7: 62$
+Envelope #8: 39$
+Envelope #9: 95$
+ Found better envelope! Chosen: 95$
+Learning envelope #1: 6$
+Learning envelope #2: 4$
+
+Now looking for first envelope greater than 6$...
+
+Envelope #3: 69$
+ Found better envelope! Chosen: 69$
+Randomly chosen envelope #7: 19$
+Observing the first 3 envelopes...
+Envelope #1: 86$
+Envelope #2: 23$
+Envelope #3: 2$
+
+Now looking for an envelope with more than 86$...
+
+Envelope #4: 87$
+ Found better envelope! Chosen: 87$
+
+=== Champion ===
+The Champion is: MaxAfterNStrategy
+=== Group Stage ===
+Randomly chosen envelope #2: 65$
+Envelope #1: 55$
+Envelope #2: 65$
+Envelope #3: 66$
+
+You must choose envelope #3
+Chosen amount: 66$
+Learning envelope #1: 25$
+Learning envelope #2: 12$
+
+Now looking for first envelope greater than 25$...
+
+Envelope #3: 96$
+ Found better envelope! Chosen: 96$
+Observing the first 3 envelopes...
+Envelope #1: 25$
+Envelope #2: 12$
+Envelope #3: 96$
+
+Now looking for an envelope with more than 96$...
+
+Envelope #4: 97$
+ Found better envelope! Chosen: 97$
+
+Group 1 Results:
+  RandomStrategy: 0 wins
+  StopAfterNOpensStrategy: 1 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 0 wins
+  MaxAfterNStrategy: 1 wins
+
+=== Playoffs ===
+Envelope #1: 99$
+Envelope #2: 8$
+Envelope #3: 24$
+
+You must choose envelope #3
+Chosen amount: 24$
+Randomly chosen envelope #3: 24$
+Observing the first 3 envelopes...
+Envelope #1: 28$
+Envelope #2: 70$
+Envelope #3: 97$
+
+Now looking for an envelope with more than 97$...
+
+Envelope #4: 52$
+Envelope #5: 23$
+Envelope #6: 13$
+Envelope #7: 97$
+Envelope #8: 29$
+Envelope #9: 44$
+Envelope #10: 70$
+ No better envelope found. Taking the last one: 70$
+Learning envelope #1: 28$
+Learning envelope #2: 70$
+
+Now looking for first envelope greater than 70$...
+
+Envelope #3: 97$
+ Found better envelope! Chosen: 97$
+Envelope #1: 48$
+Envelope #2: 51$
+Envelope #3: 99$
+
+You must choose envelope #3
+Chosen amount: 99$
+Learning envelope #1: 48$
+Learning envelope #2: 51$
+
+Now looking for first envelope greater than 51$...
+
+Envelope #3: 99$
+ Found better envelope! Chosen: 99$
+
+=== Champion ===
+The Champion is: StopAfterNOpensStrategy
+=== Group Stage ===
+Randomly chosen envelope #9: 41$
+Envelope #1: 72$
+Envelope #2: 81$
+Envelope #3: 78$
+
+You must choose envelope #3
+Chosen amount: 78$
+Learning envelope #1: 96$
+Learning envelope #2: 94$
+
+Now looking for first envelope greater than 96$...
+
+Envelope #3: 85$
+Envelope #4: 67$
+Envelope #5: 22$
+Envelope #6: 13$
+Envelope #7: 77$
+Envelope #8: 94$
+Envelope #9: 8$
+Envelope #10: 60$
+No better envelope found. Taking the last one: 60$
+Observing the first 3 envelopes...
+Envelope #1: 96$
+Envelope #2: 94$
+Envelope #3: 85$
+
+Now looking for an envelope with more than 96$...
+
+Envelope #4: 67$
+Envelope #5: 22$
+Envelope #6: 13$
+Envelope #7: 77$
+Envelope #8: 94$
+Envelope #9: 8$
+Envelope #10: 60$
+ No better envelope found. Taking the last one: 60$
+
+Group 1 Results:
+  RandomStrategy: 0 wins
+  StopAfterNOpensStrategy: 1 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Envelope #1: 57$
+Envelope #2: 12$
+Envelope #3: 40$
+
+You must choose envelope #3
+Chosen amount: 40$
+Randomly chosen envelope #10: 40$
+Learning envelope #1: 43$
+Learning envelope #2: 53$
+
+Now looking for first envelope greater than 53$...
+
+Envelope #3: 69$
+ Found better envelope! Chosen: 69$
+Observing the first 3 envelopes...
+Envelope #1: 43$
+Envelope #2: 53$
+Envelope #3: 69$
+
+Now looking for an envelope with more than 69$...
+
+Envelope #4: 22$
+Envelope #5: 89$
+ Found better envelope! Chosen: 89$
+Envelope #1: 37$
+Envelope #2: 78$
+Envelope #3: 79$
+
+You must choose envelope #3
+Chosen amount: 79$
+Observing the first 3 envelopes...
+Envelope #1: 37$
+Envelope #2: 78$
+Envelope #3: 79$
+
+Now looking for an envelope with more than 79$...
+
+Envelope #4: 57$
+Envelope #5: 70$
+Envelope #6: 37$
+Envelope #7: 4$
+Envelope #8: 99$
+ Found better envelope! Chosen: 99$
+
+=== Champion ===
+The Champion is: MaxAfterNStrategy
+=== Group Stage ===
+Randomly chosen envelope #7: 18$
+Envelope #1: 60$
+Envelope #2: 99$
+Envelope #3: 54$
+
+You must choose envelope #3
+Chosen amount: 54$
+Learning envelope #1: 70$
+Learning envelope #2: 6$
+
+Now looking for first envelope greater than 70$...
+
+Envelope #3: 16$
+Envelope #4: 90$
+ Found better envelope! Chosen: 90$
+Observing the first 3 envelopes...
+Envelope #1: 70$
+Envelope #2: 6$
+Envelope #3: 16$
+
+Now looking for an envelope with more than 70$...
+
+Envelope #4: 90$
+ Found better envelope! Chosen: 90$
+
+Group 1 Results:
+  RandomStrategy: 0 wins
+  StopAfterNOpensStrategy: 1 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Envelope #1: 15$
+Envelope #2: 65$
+Envelope #3: 36$
+
+You must choose envelope #3
+Chosen amount: 36$
+Randomly chosen envelope #5: 63$
+Learning envelope #1: 91$
+Learning envelope #2: 43$
+
+Now looking for first envelope greater than 91$...
+
+Envelope #3: 53$
+Envelope #4: 95$
+ Found better envelope! Chosen: 95$
+Observing the first 3 envelopes...
+Envelope #1: 91$
+Envelope #2: 43$
+Envelope #3: 53$
+
+Now looking for an envelope with more than 91$...
+
+Envelope #4: 95$
+ Found better envelope! Chosen: 95$
+Randomly chosen envelope #8: 7$
+Learning envelope #1: 51$
+Learning envelope #2: 65$
+
+Now looking for first envelope greater than 65$...
+
+Envelope #3: 96$
+ Found better envelope! Chosen: 96$
+
+=== Champion ===
+The Champion is: BetterThanPercentStrategy
+=== Group Stage ===
+Randomly chosen envelope #2: 19$
+Envelope #1: 42$
+Envelope #2: 19$
+Envelope #3: 39$
+
+You must choose envelope #3
+Chosen amount: 39$
+Learning envelope #1: 39$
+Learning envelope #2: 52$
+
+Now looking for first envelope greater than 52$...
+
+Envelope #3: 1$
+Envelope #4: 35$
+Envelope #5: 70$
+ Found better envelope! Chosen: 70$
+Observing the first 3 envelopes...
+Envelope #1: 39$
+Envelope #2: 52$
+Envelope #3: 1$
+
+Now looking for an envelope with more than 52$...
+
+Envelope #4: 35$
+Envelope #5: 70$
+ Found better envelope! Chosen: 70$
+
+Group 1 Results:
+  RandomStrategy: 0 wins
+  StopAfterNOpensStrategy: 1 wins
+
+Group 2 Results:
+  BetterThanPercentStrategy: 1 wins
+  MaxAfterNStrategy: 0 wins
+
+=== Playoffs ===
+Envelope #1: 74$
+Envelope #2: 17$
+Envelope #3: 52$
+
+You must choose envelope #3
+Chosen amount: 52$
+Randomly chosen envelope #8: 77$
+Learning envelope #1: 9$
+Learning envelope #2: 23$
+
+Now looking for first envelope greater than 23$...
+
+Envelope #3: 100$
+ Found better envelope! Chosen: 100$
+Observing the first 3 envelopes...
+Envelope #1: 9$
+Envelope #2: 23$
+Envelope #3: 100$
+
+Now looking for an envelope with more than 100$...
+
+Envelope #4: 24$
+Envelope #5: 59$
+Envelope #6: 100$
+Envelope #7: 25$
+Envelope #8: 97$
+Envelope #9: 55$
+Envelope #10: 27$
+ No better envelope found. Taking the last one: 27$
+Randomly chosen envelope #7: 2$
+Learning envelope #1: 86$
+Learning envelope #2: 95$
+
+Now looking for first envelope greater than 95$...
+
+Envelope #3: 75$
+Envelope #4: 29$
+Envelope #5: 66$
+Envelope #6: 72$
+Envelope #7: 2$
+Envelope #8: 93$
+Envelope #9: 15$
+Envelope #10: 11$
+No better envelope found. Taking the last one: 11$
+
+=== Champion ===
+The Champion is: BetterThanPercentStrategy
+
+Results saved to results.csv and results.json
