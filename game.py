@@ -5,6 +5,7 @@ class Game:
     Expects: strategy.play(envelopes) -> chosen_index (int)
     Returns: a small result dict.
     """
+
     def __init__(self, strategy):
         self.strategy = strategy  # save the strategy for this game
 
@@ -37,10 +38,11 @@ class Game:
 
 class GameResult:
     """Tiny data holder for one game's outcome (no magic, no decorators)."""
+
     def __init__(self, chosen_index, chosen_amount, max_amount, opened_count, success, ratio):
-        self.chosen_index  = chosen_index
+        self.chosen_index = chosen_index
         self.chosen_amount = chosen_amount
-        self.max_amount    = max_amount
-        self.opened_count  = opened_count
-        self.success       = success
-        self.ratio         = ratio
+        self.max_amount = max_amount
+        self.opened_count = opened_count
+        self.success = success
+        self.ratio = ratio

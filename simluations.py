@@ -2,7 +2,7 @@ import csv
 import json
 from strategy import RandomStrategy, StopAfterNOpensStrategy, BetterThanPercentStrategy, MaxAfterNStrategy
 from DeathMatchTournament import DeathMatchTournament
-from ElimenationTournament import EliminationTournament
+from EliminationTournament import EliminationTournament
 from LeagueTournament import LeagueTournament
 from ChampionshipTournament import ChampionshipTournament
 
