@@ -1,7 +1,9 @@
 import itertools
 from envelope import Envelope
+from base import Tournament
 
-class ChampionshipTournament:
+
+class ChampionshipTournament(Tournament):
     def __init__(self, strategies, num_envelopes=10, group_size=2):
         """
         strategies: list of Strategy instances (already initialized!)

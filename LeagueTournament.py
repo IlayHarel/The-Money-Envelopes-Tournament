@@ -1,8 +1,9 @@
 from envelope import Envelope
 from strategy import RandomStrategy, StopAfterNOpensStrategy, BetterThanPercentStrategy, MaxAfterNStrategy
+from base import Tournament
 
 
-class LeagueTournament:
+class LeagueTournament(Tournament):
     """
     Full league (home-and-away). Each strategy plays twice against all others.
     Table keeps track of games, wins, losses, ties, and points.

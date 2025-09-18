@@ -7,7 +7,9 @@ Different *strategies* (ways of choosing) try to pick the best envelope.
 
 We then play many *tournaments* to see which strategy is the smartest.
 
----
+## UML
+![uml](UML.png)
+
 
 ## How the project is built
 - *envelope.py* - makes an envelope with a random amount of money.  

@@ -1,6 +1,8 @@
 # game.py
 from envelope import Envelope
 from strategy import RandomStrategy
+
+
 class Game:
     """
     Runs one game with the given strategy and envelopes.
@@ -48,6 +50,8 @@ class GameResult:
         self.opened_count = opened_count
         self.success = success
         self.ratio = ratio
+
+
 if __name__ == "__main__":
     # Create envelopes
     envelopes = [Envelope() for _ in range(10)]
